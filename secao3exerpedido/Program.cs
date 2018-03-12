@@ -10,7 +10,7 @@ namespace secao3exerpedido
         static void Main(string[] args)
         {
             int op = 0;
-
+            //pode alterar e excluir produtos diretamente por aqui
             produtos.Add(new Produto(1001, "Cadeira simples", 500.00));
             produtos.Add(new Produto(1002, "Cadeira acolchoada", 900.00));
             produtos.Add(new Produto(1003, "Sofa de tres lugares", 2000.00));

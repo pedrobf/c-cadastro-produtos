@@ -1,0 +1,7 @@
+c:\users\pedro\Source\Repos\secao3exerpedido\secao3exerpedido\obj\Debug\secao3exerpedido.csprojResolveAssemblyReference.cache
+c:\users\pedro\Source\Repos\secao3exerpedido\secao3exerpedido\obj\Debug\secao3exerpedido.csproj.CoreCompileInputs.cache
+c:\users\pedro\Source\Repos\secao3exerpedido\secao3exerpedido\bin\Debug\secao3exerpedido.exe.config
+c:\users\pedro\Source\Repos\secao3exerpedido\secao3exerpedido\bin\Debug\secao3exerpedido.exe
+c:\users\pedro\Source\Repos\secao3exerpedido\secao3exerpedido\bin\Debug\secao3exerpedido.pdb
+c:\users\pedro\Source\Repos\secao3exerpedido\secao3exerpedido\obj\Debug\secao3exerpedido.exe
+c:\users\pedro\Source\Repos\secao3exerpedido\secao3exerpedido\obj\Debug\secao3exerpedido.pdb
